@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: c3e129a4bb5660145a5b659de4e135d8
+  - enabled: 1
+    path: Assets/Scenes/DodgeGame.unity
+    guid: 85c8068241a7e164caa1717e14d1fbc5
   m_configObjects: {}
